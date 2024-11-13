@@ -16,3 +16,5 @@ This repo is for test purposes only, hence the name of the repo. I created this 
 - commit changes
 - pull changes from remote repo
 - push to local repo to remote repo
+
+- the end
