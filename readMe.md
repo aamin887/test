@@ -20,3 +20,5 @@ This repo is for test purposes only, hence the name of the repo. I created this 
 - push to local repo to remote repo
 - merge and rebase
 - squashing
+
+* New writings \*
